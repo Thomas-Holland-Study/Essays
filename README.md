@@ -5,7 +5,7 @@ What this is:
 - Essays and long-form writing based on this
 
 What this is not:
-- All correct - I try to make it accurate but it might be wrong (if you spot an error please let me know)
+- All correct - I try to make it accurate, but it might be wrong (if you spot an error, please let me know)
 - Well-sorted or specific - this covers everything I studied from 2nd year onwards and all mixed up
 
 What I studied:

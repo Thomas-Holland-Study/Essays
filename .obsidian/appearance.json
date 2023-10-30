@@ -1,3 +1,12 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "system",
+  "cssTheme": "Catppuccin",
+  "interfaceFontFamily": "MesloLGS NF",
+  "textFontFamily": "MesloLGS NF",
+  "monospaceFontFamily": "MesloLGS NF",
+  "baseFontSize": 14,
+  "baseFontSizeAction": false,
+  "showViewHeader": true,
+  "translucency": false
 }
