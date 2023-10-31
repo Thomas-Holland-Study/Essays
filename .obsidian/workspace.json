@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "77353fab490c07ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Template - Essays.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1cee07fac74f072e",
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essays/IB - PMS/What do studies of photosynthetic bacteria, algae and plants tell us about the evolution of photosynthesis?.md",
+                "file": "Templates/Template - Essays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essays/IB - PMS/What do studies of photosynthetic bacteria, algae and plants tell us about the evolution of photosynthesis?.md",
+                "file": "Templates/Template - Essays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essays/IB - PMS/What do studies of photosynthetic bacteria, algae and plants tell us about the evolution of photosynthesis?.md"
+                "file": "Templates/Template - Essays.md"
               }
             }
           }
@@ -135,19 +148,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9950a3d802244ae9",
+  "active": "77353fab490c07ff",
   "lastOpenFiles": [
-    "Essays/IB - PMS/What do studies of photosynthetic bacteria, algae and plants tell us about the evolution of photosynthesis?.pdf",
+    "Templates/Template - Lit Note.md",
+    "Templates/Template - Notes.md",
+    "Templates/Template - Essays.md",
+    "Atomic Notes/RuBisCo.md",
+    "Templates",
+    "Atomic Notes/Photosynthesis.md",
     "Essays/IB - PMS/What do studies of photosynthetic bacteria, algae and plants tell us about the evolution of photosynthesis?.md",
     "README.md",
+    "Source notes/Lit notes/Untitled",
+    "Source notes/Study notes/IB - PMS",
+    "Source notes/Study notes/IB - ESB",
+    "Source notes/Study notes/IB - ESA",
     "Essays/IB - ESB",
     "Essays/IB - ESA",
-    "Essays/IB - PMS",
-    "Essays",
-    "Input/Lit Notes",
-    "Input/Handwritten Notes",
-    "Input",
-    "Notes",
+    "Atomic Notes",
+    "Source notes/Study notes",
+    "Source notes/Lit notes",
     "README.md.md"
   ]
 }

@@ -1,7 +1,7 @@
 What this is:
 - Handwritten notes taken during lectures/labs/supervisions
 - Lit notes
-- A summary based on these notes
+- A summary based on these notes (in the atomic notes folder)
 - Essays and long-form writing based on this
 
 What this is not:
